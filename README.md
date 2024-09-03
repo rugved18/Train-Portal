@@ -21,7 +21,7 @@ The Train Ticket Reservation System is a web-based application designed for mana
 
 ## Technologies Used
 
-- **Front-End:** HTML5, CSS3, Bootstrap
+- **Front-End:** HTML5, CSS3, Bootstraps
 - **Back-End:** Java (J2EE), Servlets, JDBC
 - **Database:** Oracle SQL
 - **Tools:** Git, Java JDK 8+, Eclipse EE, Apache Maven, Tomcat v8.0+
